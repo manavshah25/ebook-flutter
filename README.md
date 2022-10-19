@@ -11,7 +11,8 @@ App provide user to interactive reading it provides us with the books to read fo
   1) Lastest book 
   2) Suggestions of book for the specfic day
   3) Userfriendly UI/UX
-
+### Steps taken care while Installing our Application 
+    #jbhbdb
 ### Created By:-
 1) [Jay Shah (CE124)](https://github.com/jayshah2002)
 2) [Manav Shah (CE125)](https://github.com/manavshah25)
