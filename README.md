@@ -1,16 +1,17 @@
-# ebookreader
+# BReader
+App provide user to interactive reading it provides us with the books to read for user and help the user to get the book for the reading it helps user to get online ebooks for reading and acquiring knowledge
+<br><br>
 
-A new Flutter project.
+<img src="image.png" >
+<br>
 
-## Getting Started
+### Flutter ebook Reader App
 
-This project is a starting point for a Flutter application.
+### BReader App Features
+  1) Lastest book 
+  2) Suggestions of book for the specfic day
+  3) Userfriendly UI/UX
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Created By:-
+1) [Jay Shah (CE124)](https://github.com/jayshah2002)
+2) [Manav Shah (CE125)](https://github.com/manavshah25)
