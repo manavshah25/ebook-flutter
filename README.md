@@ -11,8 +11,12 @@ App provide user to interactive reading it provides us with the books to read fo
   1) Lastest book 
   2) Suggestions of book for the specfic day
   3) Userfriendly UI/UX
+  4)  our Main focus is on UI desgin 
 ### Steps taken care while Installing our Application 
-    #jbhbdb
+    # Take care of Dependences & sdk Manager We have use APPI 33
+    # Take care gradles
+    # Take care Android Studio ie. sdk manager file & flutter sdk file is properly install with all dependences which are required
+    # Recommanded to Run your project on Mobile Phone
 ### Created By:-
 1) [Jay Shah (CE124)](https://github.com/jayshah2002)
 2) [Manav Shah (CE125)](https://github.com/manavshah25)
